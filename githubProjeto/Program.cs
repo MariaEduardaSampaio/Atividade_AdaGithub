@@ -12,6 +12,8 @@
             ola.Apresentar();
             Console.WriteLine("Ângela");
             Console.WriteLine("Hello, Duda!");
+
+            Console.WriteLine("Hello resto da equipe :)");
         }
     }
 }
